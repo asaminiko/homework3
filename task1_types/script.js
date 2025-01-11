@@ -4,7 +4,7 @@ const bool = true
 const sym = Symbol('лалал')
 const n = null
 let bigInt = BigInt(9007199254740991)
-
+let empty
 const myArray = [
   [1, 2, 3, 4],
   [5, 6, 7, 8],
